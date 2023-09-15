@@ -25,7 +25,7 @@ This is a simple C program that calculates the attendance percentage of a studen
    
 ## Compile the Program: 
 Navigate to the project directory and compile the program using a C compiler (e.g., GCC):
-
+ ```bash
 gcc attendance_calculator.c -o attendance_calculator
 
 ## Run the Program:
