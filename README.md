@@ -1,4 +1,4 @@
-# 75% Attendance Calculator
+# Attendance Percentage Calculator in C
 
 This is a simple C program that calculates the attendance percentage of a student based on the total number of days and the number of days the student is present.
 
@@ -16,12 +16,13 @@ This is a simple C program that calculates the attendance percentage of a studen
 - Easy-to-use command-line interface.
 - Written in C for portability.
 
-## ## How to Use
+## How to Use
 
- 1.**Clone the Repository**: Clone the repository to your local machine using the following command:
+1. **Clone the Repository**: Clone the repository to your local machine using the following command:
 
-   git clone  https://github.com/megh-bari/75-Percentage-Attendance-Calculator.git
-
+   ```bash
+   git clone https://github.com/megh-bari/75-Percentage-Attendance-Calculator.git
+   
 ## Compile the Program: 
 Navigate to the project directory and compile the program using a C compiler (e.g., GCC):
 
