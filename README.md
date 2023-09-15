@@ -25,16 +25,16 @@ To use this program, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/megh-bari/Attendance-Management-System.git
+   git clone https://github.com/megh-bari/75-Percentage-Attendance-Calculator.git
    ```
 
 2. Compile the program (if required):
+3. 
+    ```bash
+    gcc attendance_calculator.c -o attendance_calculator
+   ```
 
-   ```bash
-  gcc attendance_calculator.c -o attendance_calculator
-     ```
-
-3. Run the program:
+4. Run the program:
 
    ```bash
    ./attendance_calculator
@@ -46,11 +46,11 @@ The program will prompt you to enter the total number of days and the number of 
 After entering the required information, the program will calculate and display the attendance percentage on the console.
 
 ## Sample Output:
-
+```bash
 Enter the total number of days: 108
 Enter the number of days the student is present: 81
 Attendance Percentage: 75.00%
-
+  ```
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
