@@ -48,9 +48,9 @@ After entering the required information, the program will calculate and display 
 
 ## Sample Output:
 
-**Enter the total number of days: 108
-Enter the number of days the student is present: 81
-Attendance Percentage: 75.00%**
+- Enter the total number of days: 108
+- Enter the number of days the student is present: 81
+- Attendance Percentage: 75.00%
 
 ## Contact Us:
 If you have any questions, suggestions, or encounter any issues, please feel free to reach out to us:
