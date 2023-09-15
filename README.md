@@ -18,10 +18,9 @@ This is a simple C program that calculates the attendance percentage of a studen
 
 ## ## How to Use
 
-1. **Clone the Repository**: Clone the repository to your local machine using the following command:
+ 1.**Clone the Repository**: Clone the repository to your local machine using the following command:
 
-   ```bash
-**git clone repository** https://github.com/megh-bari/75-Percentage-Attendance-Calculator.git
+   git clone  https://github.com/megh-bari/75-Percentage-Attendance-Calculator.git
 
 ## Compile the Program: 
 Navigate to the project directory and compile the program using a C compiler (e.g., GCC):
