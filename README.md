@@ -1,4 +1,4 @@
-# Attendance Percentage Calculator in C
+# 75% Attendance Calculator in C
 
 This is a simple C program that calculates the attendance percentage of a student based on the total number of days and the number of days the student is present.
 
