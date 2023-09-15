@@ -8,6 +8,7 @@ This is a simple C program that calculates the attendance percentage of a studen
 - [How to Use](#how-to-use)
 - [Sample Output](#sample-output)
 - [License](#license)
+- [Contact](#contact-us)
 - [Author](#author)
 
 ## Features
@@ -46,13 +47,19 @@ The program will prompt you to enter the total number of days and the number of 
 After entering the required information, the program will calculate and display the attendance percentage on the console.
 
 ## Sample Output:
-```bash
-Enter the total number of days: 108
+
+**Enter the total number of days: 108
 Enter the number of days the student is present: 81
-Attendance Percentage: 75.00%
-  ```
+Attendance Percentage: 75.00%**
+
+## Contact Us:
+If you have any questions, suggestions, or encounter any issues, please feel free to reach out to us:
+
+- Email: meghbari01@gmail.com
+
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 Megh Bari
